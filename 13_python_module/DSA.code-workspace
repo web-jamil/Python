@@ -1,0 +1,28 @@
+{
+	"folders": [
+    {
+      "path": "../../DSA"
+    },
+    {
+      "path": "../../C++"
+    },
+    {
+      "path": ".."
+    },
+    {
+      "path": "D:/Javascript"
+    },
+    {
+      "path": "../../HTML & CSS"
+    },
+    {
+      "path": "../../../Documents/Downloads/Interview_DS_Algo-master"
+    },
+    {
+      "path": "../../LinuxAndUnix"
+    }
+  ],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML & CSS"
+	}
+}
