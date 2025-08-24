@@ -1,0 +1,31 @@
+{
+    "devices": [
+      {
+        "id": "light1",
+        "name": "Living Room Light",
+        "type": "LIGHT",
+        "ip": "192.168.1.100",
+        "mac": "00:11:22:33:44:55",
+        "manufacturer": "Philips Hue",
+        "status": "OFF",
+        "last_seen": 1634567890,
+        "capabilities": ["on/off", "dimming", "color"]
+      }
+    ],
+    "scenes": {
+      "Movie Night": [
+        {
+          "device_id": "light1",
+          "action": "turn_on",
+          "value": "30%"
+        }
+      ]
+    },
+    "routines": {
+      "Good Morning": {
+        "type": "scheduled",
+        "schedule": "07:00",
+        "scene": "Morning Lights"
+      }
+    }
+  }

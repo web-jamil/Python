@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "D:/Javascript"
+    },
+    {
+      "path": "../../DSA"
+    },
+    {
+      "path": "../../LinuxAndUnix"
+    },
+    {
+      "path": "../../HTML & CSS"
+    },
+    {
+      "path": "../../python_tutorial"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTML & CSS"
+  }
+}
