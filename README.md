@@ -25,7 +25,7 @@ Welcome to my Python repository! This space is dedicated to clean, well-document
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/web-jamil/Python/
 cd your-repo-name
 ## 🤝 Contributing
 ```
