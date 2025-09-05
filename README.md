@@ -22,13 +22,6 @@ Welcome to my Python repository! This space is dedicated to clean, well-document
 - Empower Bengali-speaking learners with accessible coding resources  
 - Maintain code hygiene and modern repository practices
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/web-jamil/Python/
-cd your-repo-name
-## 🤝 Contributing
-```
 
 Pull requests are welcome! If you'd like to contribute a solution, improve documentation, or translate comments, feel free to fork the repo and submit a PR.
 
@@ -39,5 +32,11 @@ Feel free to reach out via GitHub Issues or connect with me for collaboration or
 ---
 
 Thanks for visiting! 🌟 Let’s make coding more inclusive and educational—one repo at a time.
+
 ### Clone the Repository
-e
+
+```bash
+git clone https://github.com/web-jamil/Python/
+cd your-repo-name
+## 🤝 Contributing
+```
